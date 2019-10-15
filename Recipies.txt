@@ -2,3 +2,4 @@ Welcome to my sample projects
 
 1. Briyani
 2. Aloo
+3. Chicken fry
